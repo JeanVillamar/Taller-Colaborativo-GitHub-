@@ -1,4 +1,4 @@
-nb_cilindros,desplazamiento,potencia,peso,aceleracion,anio,modeo,mpg
+nb_cilindros,desplazamiento,potencia,peso,aceleracion,anio,modelo,mpg
 8,307.0,130.0,3504.0,12.0,70,"""chevrolet chevelle malibu""",18.0
 8,350.0,165.0,3693.0,11.5,70,"""buick skylark 320""",15.0
 8,318.0,150.0,3436.0,11.0,70,"""plymouth satellite""",18.0
